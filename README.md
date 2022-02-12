@@ -25,7 +25,7 @@
   click to fork the git into your account
  Click [FORK](https://github.com/KINGS-AS/RDX/fork)
 
-5. Now https://heroku.com/deploy?template=https://github.com/KINGS-AS/RDX copy this url and change KINGS-AS with your github username and click go<br>
+5. Now https://heroku.com/deploy?template=https://github.com/mrvickyser/RDX copy this url and change KINGS-AS with your github username and click go<br>
 
 
 6.This method not working click [Whtsapp Number](https://wa.me/qr/CYBN2KFKQTAIN1) Save my number and massage me 
